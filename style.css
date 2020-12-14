@@ -208,3 +208,25 @@ nav > ul li:hover .sous {
   margin: 50px 20px;
   height: 1500px;
 }
+.cadre {
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: justify;
+	align-content: center;
+	border: 1px solid #66A7CC;
+	border-radius: 40px 40px / 25px 25px;
+	padding: 10px;
+}
+.accueil-site {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #E5E5E5;
+  border: 1px solid #66A7CC;
+}
+.accueil-site h2 {
+  text-aign: center;
+}
+.accueil-site p {
+  text-align: justify;
+}
