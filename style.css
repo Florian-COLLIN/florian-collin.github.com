@@ -349,21 +349,21 @@ nav > ul li:hover .sous {
     display: block;
 }
 .sous li {
-    float: none;
-    width: 100%;
-    text-align: left;
+  float: none;
+  width: 100%;
+  text-align: left;
 }
 .sous a {
-    padding: 10px;
-    border-bottom: none;
+  padding: 10px;
+  border-bottom: none;
 }
 .sous a:hover {
-    border-bottom: none;
-    background-color: RGBa(200,200,200,0.1);
+  border-bottom: none;
+  background-color: RGBa(200,200,200,0.1);
 }
 .deroulant > a::after {
-    content:" ▼";
-    font-size: 12px;
+  content:" ▼";
+  font-size: 12px;
 }
 .conteneur {
   margin: 50px 20px;
