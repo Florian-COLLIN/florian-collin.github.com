@@ -369,3 +369,29 @@ nav > ul li:hover .sous {
   margin: 50px 20px;
   height: 1500px;
 }
+/* Bas de page */
+footer {
+  width: 100%;
+  background-color: white;
+}
+footer div.colonnes {
+  display: flex;
+}
+footer div.colonnes>* {
+  margin: 0 10px;
+  flex: 1;
+}
+footer ul.footer {
+  /* */
+}
+footer ul.footer li {
+  list-style-type: none;
+}
+footer ul.footer li a {
+  color: grey;
+}
+table.language {
+  width: 100%;
+  border: none;
+  font-size: 5;
+}

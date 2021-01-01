@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.4] - 2021-01-01
+### Added
+- Add en/index.html ;
+
+### Changed
+- Update fr/index.html ;
+- Update fr/mise-à-jour.html ;
+- Update fr/style.css ;
+- Update index.html ;
+- Update javascript.js ;
 ## [1.1.3] - 2020-12-22
 ### Added
 - Add favicon.ico ;
