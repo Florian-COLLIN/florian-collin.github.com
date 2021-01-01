@@ -15,7 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update fr/mise-à-jour.html ;
 - Update fr/style.css ;
 - Update index.html ;
-- Update javascript.js ;
+- Update javascript.js.
+
 ## [1.1.3] - 2020-12-22
 ### Added
 - Add favicon.ico ;
