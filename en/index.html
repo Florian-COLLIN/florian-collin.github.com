@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>Sites of Florian COLLIN</title>
@@ -9,6 +9,25 @@
     	<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
     	<link rel="alternate" hreflang="fr" href="/fr/index.html">
     	<link rel="alternate" hreflang="en" href="/en/index.html">
+        <script type="text/javascript">
+            francais="https://florian-collin.github.io/fr/index.html";
+            anglais="https://florian-collin.github.io/en/index.html";
+            nom=navigator.appName;
+            langue=navigator.language;
+            langue1=navigator.browserLanguage;
+            if (nom == "Microsoft Internet Explorer") {
+                if (langue1 == "fr")
+                    self.location.href=français;
+                else
+                    self.location.href=anglais;
+            }
+            else {
+                if (langue == "fr")
+                    self.location.href=français;
+                else
+                    self.location.href=anglais;
+            }
+        </script>
     </head>
     <body>
     	<nav>
