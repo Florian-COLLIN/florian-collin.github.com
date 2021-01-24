@@ -1,3 +1,4 @@
+@charset "UTF-8";     
 /*
  * Balises globales
  */
@@ -394,4 +395,34 @@ table.language {
   width: 100%;
   border: none;
   font-size: 5;
+}
+/* Bannière */
+#barre a {
+  text-decoration: none;
+  color: #6E052E;
+}
+#barre {
+  width: 100%;
+  position: fixed;
+  z-index: 9999;
+  background:#BFD626;
+  padding:8px 0;
+  font-family:  "Trebuchet MS";
+  text-align: center;
+  font-size:11px;
+  margin-top:-50px;
+  border-bottom: 10px solid #2e1b27;
+}
+#fermer {
+  background: url(https://www.webdesignweb.fr/sources/bandeau_webdesignweb_fixed/img/fermer.png);
+  width: 18px;
+  height:18px;
+  display: block;
+  cursor: pointer;
+  float:right;
+  margin-right:30px;
+}
+ 
+#fermer:hover {
+    background: url(https://www.webdesignweb.fr/sources/bandeau_webdesignweb_fixed/img/fermer.gif);
 }
