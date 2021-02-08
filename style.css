@@ -386,15 +386,17 @@ footer div.colonnes-2 {
   flex-direction: column;
   flex: 1 1 4em;
 }
+/*
 footer ul.footer {
-  /* */
 }
+*/
 footer ul.footer li {
   list-style-type: none;
 }
 footer ul.footer li a {
   color: grey;
 }
+/* Languages */
 table.language {
   width: 100%;
   border: none;
