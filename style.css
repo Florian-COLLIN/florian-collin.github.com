@@ -377,10 +377,14 @@ footer {
 }
 footer div.colonnes {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
-footer div.colonnes>* {
-  margin: 0 10px;
-  flex: 1;
+footer div.colonnes-1,
+footer div.colonnes-2 {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 4em;
 }
 footer ul.footer {
   /* */
