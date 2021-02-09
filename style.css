@@ -61,7 +61,8 @@ h6 {
  */
 /* Cadre */
 .cadre {
-	width: 100%;
+	max-width: 100%;
+	width: auto;
 	margin: 1rem;
 	background-color: white;
 	text-align: justify;
@@ -223,8 +224,7 @@ h6 {
 footer {
   width: 100%;
   background-color: white;
-	box-shadow: 0 0 .2rem #999;
-	border-radius: 2px;
+  border-top: 2px solid black;
 }
 footer div.colonnes {
   display: flex;
