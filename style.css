@@ -66,9 +66,9 @@ h6 {
 	text-align: justify;
 	align-content: center;
 	border: 1px solid #66A7CC;
-	border-radius: 2rem;
+	border-radius: 1rem;
 	padding: 2rem;
-	box-shadow: 4px 4px #999;
+	box-shadow: 0 0 .2em #999;
 }
 /* Affichage des sites sur la page d'accueil */
 .accueil-site {
