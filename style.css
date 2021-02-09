@@ -60,14 +60,15 @@ h6 {
  */
 /* Cadre */
 .cadre {
-	width: 1000px;
-	margin: 0 auto;
+	width: 100%;
+	margin: 1rem;
 	background-color: white;
 	text-align: justify;
 	align-content: center;
 	border: 1px solid #66A7CC;
-	border-radius: 40px 40px / 25px 25px;
-	padding: 10px;
+	border-radius: 2rem;
+	padding: 2rem;
+	box-shadow: 4px 4px #999;
 }
 /* Affichage des sites sur la page d'accueil */
 .accueil-site {
