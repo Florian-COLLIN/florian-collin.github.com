@@ -217,8 +217,7 @@ h6 {
   font-variant: small-caps;
 }
 .conteneur {
-  margin: 50px 20px;
-  height: 1500px;
+  height: auto;
 }
 /* Bas de page */
 footer {
