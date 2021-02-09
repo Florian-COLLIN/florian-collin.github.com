@@ -223,6 +223,8 @@ h6 {
 footer {
   width: 100%;
   background-color: white;
+	box-shadow: 0 0 .2rem #999;
+	border-radius: 2px;
 }
 footer div.colonnes {
   display: flex;
