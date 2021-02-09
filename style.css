@@ -207,9 +207,6 @@ nav > ul li:hover .sous {
     content:" ▼";
     font-size: 12px;
 }
-.conteneur {
-  margin: 50px 20px;
-  height: 1500px;
 =======
 >>>>>>> Stashed changes
 }
@@ -217,6 +214,7 @@ h6 {
   font-variant: small-caps;
 }
 .conteneur {
+  margin: 0;
   height: auto;
 }
 /* Bas de page */
