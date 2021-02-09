@@ -4,7 +4,8 @@
  */
 /* Général */
 body {
-	background:#fbf1d8 url(https://themes.googleusercontent.com/image?id=1tFd7JwCZklx2wbQVQNlo-PcPRWrzFsTSzBZOaXgoUo8M1A6G1q5jOePd6ZeusFbrndZ9) no-repeat fixed top center /* Credit: tillsonburg (http://www.istockphoto.com/portfolio/tillsonburg?platform=blogger) */;
+	/*background:#fbf1d8 url(https://themes.googleusercontent.com/image?id=1tFd7JwCZklx2wbQVQNlo-PcPRWrzFsTSzBZOaXgoUo8M1A6G1q5jOePd6ZeusFbrndZ9) no-repeat fixed top center /* Credit: tillsonburg (http://www.istockphoto.com/portfolio/tillsonburg?platform=blogger) */;*/
+	background: #66a7cc;
 	background-attachment:scroll;
 	background-size:cover;
 	-webkit-filter:blur(0px);
@@ -65,7 +66,6 @@ h6 {
 	background-color: white;
 	text-align: justify;
 	align-content: center;
-	border: 1px solid #66A7CC;
 	border-radius: 1rem;
 	padding: 2rem;
 	box-shadow: 0 0 .2em #999;
