@@ -1,4 +1,4 @@
-@charset "UTF-8";     
+@charset "UTF-8";
 /*
  * Balises globales
  */
@@ -22,38 +22,38 @@ p {
 }
 /* Tableau */
 table {
-  border-collapse: collapse;
-  width: 400px;
+  	border-collapse: collapse;
+  	width: 400px;
 }
-th, td {
-  border: 1px solid black;
-  padding: 10px;
-  vertical-align: top;
+th,
+td {
+  	border: 1px solid black;
+  	padding: 10px;
+  	vertical-align: top;
 }
 /* Citations */
 q {
-  quotes: "«\a0" "\a0»";
-  font: inherit;
+	quotes: "«\a0" "\a0»";
+  	font: inherit;
 }
 /* Titres de sections */
 h1 {
-  font-variant: small-caps;
+  	font-variant: small-caps;
 }
 h2 {
-  font-variant: small-caps;
+  	font-variant: small-caps;
 }
 h3 {
-  font-variant: small-caps;
+  	font-variant: small-caps;
 }
 h4 {
-  font-variant: small-caps;
+  	font-variant: small-caps;
 }
 h5 {
-  font-variant: small-caps;
-<<<<<<< Updated upstream
+  	font-variant: small-caps;
 }
 h6 {
-  font-variant: small-caps;
+  	font-variant: small-caps;
 }
 /*
  * Cadres
@@ -88,21 +88,21 @@ h6 {
 }
 /*Cadre du haut */
 .cadre-du-haut {
-  width: 100%;
-  height: 100vh;
-  position: relative;
-  overflow: hidden;
-  color: #FFF;
-  text-align: center;
+  	width: 100%;
+  	height: 100vh;
+  	position: relative;
+  	overflow: hidden;
+  	color: #FFF;
+  	text-align: center;
 }
 .cadre-du-haut-center {
-  width: 100%;
-  position: absolute;
-  top: 40%;
-  left: 0;
-  -webkit-transform: translate(0, -50%);
-      -ms-transform: translate(0, -50%);
-          transform: translate(0, -50%);
+  	width: 100%;
+  	position: absolute;
+  	top: 40%;
+  	left: 0;
+  	-webkit-transform: translate(0, -50%);
+      	-ms-transform: translate(0, -50%);
+        	transform: translate(0, -50%);
 }
 .cadre-du-haut__logo {
   	font-size: 120px;
@@ -135,13 +135,13 @@ body[data-aos-delay="400"] [data-aos].aos-animate{
 	transition-delay:.4s
 }
 .octocat {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  width: 80px; }
-  .octocat img {
-    display: block;
-    width: 100%;
+  	position: absolute;
+  	top: 20px;
+  	right: 20px;
+  	width: 80px; }
+  	.octocat img {
+    	display: block;
+    	width: 100%;
 }
 /*
  * Onglets
@@ -207,13 +207,11 @@ nav > ul li:hover .sous {
     font-size: 12px;
 }
 .conteneur {
-  margin: 50px 20px;
-  height: 1500px;
-=======
->>>>>>> Stashed changes
+  	margin: 50px 20px;
+  	height: 1500px;
 }
 h6 {
-  font-variant: small-caps;
+  	font-variant: small-caps;
 }
 /*
  * Cadres
@@ -248,21 +246,21 @@ h6 {
 }
 /*Cadre du haut */
 .cadre-du-haut {
-  width: 100%;
-  height: 100vh;
-  position: relative;
-  overflow: hidden;
-  color: #FFF;
-  text-align: center;
+  	width: 100%;
+  	height: 100vh;
+  	position: relative;
+  	overflow: hidden;
+  	color: #FFF;
+  	text-align: center;
 }
 .cadre-du-haut-center {
-  width: 100%;
-  position: absolute;
-  top: 40%;
-  left: 0;
-  -webkit-transform: translate(0, -50%);
-      -ms-transform: translate(0, -50%);
-          transform: translate(0, -50%);
+  	width: 100%;
+  	position: absolute;
+  	top: 40%;
+  	left: 0;
+  	-webkit-transform: translate(0, -50%);
+      	-ms-transform: translate(0, -50%);
+          	transform: translate(0, -50%);
 }
 .cadre-du-haut__logo {
   	font-size: 120px;
@@ -295,13 +293,13 @@ body[data-aos-delay="400"] [data-aos].aos-animate{
 	transition-delay:.4s
 }
 .octocat {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  width: 80px; }
-  .octocat img {
-    display: block;
-    width: 100%;
+  	position: absolute;
+  	top: 20px;
+  	right: 20px;
+  	width: 80px; }
+  	.octocat img {
+    	display: block;
+    	width: 100%;
 }
 /*
  * Onglets
@@ -350,85 +348,85 @@ nav > ul li:hover .sous {
     display: block;
 }
 .sous li {
-  float: none;
-  width: 100%;
-  text-align: left;
+  	float: none;
+  	width: 100%;
+  	text-align: left;
 }
 .sous a {
-  padding: 10px;
-  border-bottom: none;
+  	padding: 10px;
+  	border-bottom: none;
 }
 .sous a:hover {
-  border-bottom: none;
-  background-color: RGBa(200,200,200,0.1);
+  	border-bottom: none;
+  	background-color: RGBa(200,200,200,0.1);
 }
 .deroulant > a::after {
-  content:" ▼";
-  font-size: 12px;
+  	content:" ▼";
+  	font-size: 12px;
 }
 .conteneur {
-  margin: 50px 20px;
-  height: 1500px;
+  	margin: 50px 20px;
+  	height: 1500px;
 }
 /* Bas de page */
 footer {
-  width: 100%;
-  background-color: white;
+  	width: 100%;
+  	background-color: white;
 }
 footer div.colonnes {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
 }
 footer div.colonnes-1,
 footer div.colonnes-2 {
-  display: flex;
-  flex-direction: column;
-  flex: 1 1 4em;
+  	display: flex;
+  	flex-direction: column;
+  	flex: 1 1 4em;
 }
 /*
 footer ul.footer {
 }
 */
 footer ul.footer li {
-  list-style-type: none;
+  	list-style-type: none;
 }
 footer ul.footer li a {
-  color: grey;
+  	color: grey;
 }
 /* Languages */
 table.language {
-  width: 100%;
-  border: none;
-  font-size: 5;
+  	width: 100%;
+  	border: none;
+  	font-size: 5;
 }
 /* Bannière */
 #barre a {
-  text-decoration: none;
-  color: #6E052E;
+  	text-decoration: none;
+  	color: #6E052E;
 }
 #barre {
-  width: 100%;
-  position: fixed;
-  z-index: 9999;
-  background: #BFD626;
-  padding:  8px 0;
-  font-family:  "Trebuchet MS";
-  text-align: center;
-  font-size:  11px;
-  margin-top: -50px;
-  border-bottom: 10px solid #2e1b27;
+  	width: 100%;
+  	position: fixed;
+  	z-index: 9999;
+  	background: #BFD626;
+  	padding:  8px 0;
+  	font-family:  "Trebuchet MS";
+  	text-align: center;
+  	font-size:  11px;
+  	margin-top: -50px;
+  	border-bottom: 10px solid #2e1b27;
 }
 #fermer {
-  background: url(https://www.webdesignweb.fr/sources/bandeau_webdesignweb_fixed/img/fermer.png);
-  width: 18px;
-  height: 18px;
-  display: block;
-  cursor: pointer;
-  float:  right;
-  margin-right: 30px;
+  	background: url(https://www.webdesignweb.fr/sources/bandeau_webdesignweb_fixed/img/fermer.png);
+  	width: 18px;
+  	height: 18px;
+  	display: block;
+  	cursor: pointer;
+  	float:  right;
+  	margin-right: 30px;
 }
  
 #fermer:hover {
-    background: url(https://www.webdesignweb.fr/sources/bandeau_webdesignweb_fixed/img/fermer.gif);
+	background: url(https://www.webdesignweb.fr/sources/bandeau_webdesignweb_fixed/img/fermer.gif);
 }
