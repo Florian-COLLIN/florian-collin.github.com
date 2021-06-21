@@ -77,6 +77,8 @@ h6 {
     margin: 1rem;
     background-color: #E5E5E5;
     padding: 2rem;
+    right: 15%;
+    left: 15%;
 }
 .accueil-site h2 {
     text-align: center;
@@ -206,9 +208,6 @@ nav > ul li:hover .sous {
 .deroulant > a::after {
     content:" ▼";
     font-size: 12px;
-}
-=======
->>>>>>> Stashed changes
 }
 h6 {
   font-variant: small-caps;
