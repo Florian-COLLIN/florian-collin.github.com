@@ -210,46 +210,46 @@ nav > ul li:hover .sous {
     font-size: 12px;
 }
 h6 {
-  font-variant: small-caps;
+    font-variant: small-caps;
 }
 .conteneur {
-  margin: 0;
-  height: auto;
+    margin: 0px 0px;
+    min-height: 500px;
 }
 /* Bas de page */
 footer {
-  width: 100%;
-  margin: 2rem 0px 0px 0px;
-  padding: 1rem;
-  background-color: white;
-  border-top: 2px solid black;
+    width: 100%;
+    margin: 2rem 0px 0px 0px;
+    padding: 1rem;
+    background-color: white;
+    border-top: 2px solid black;
 }
 footer div.colonnes {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 footer div.colonnes-1,
 footer div.colonnes-2 {
-  display: flex;
-  flex-direction: column;
-  flex: 1 1 4em;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 4em;
 }
 /*
 footer ul.footer {
 }
 */
 footer ul.footer li {
-  list-style-type: none;
+    list-style-type: none;
 }
 footer ul.footer li a {
-  color: grey;
+    color: grey;
 }
 /* Languages */
-table.language {
-  width: 100%;
-  border: none;
-  font-size: 5;
+table.language tr {
+    width: 100%;
+    border: none;
+    font-size: 5;
 }
 /* Bannière */
 #barre a {
