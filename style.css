@@ -307,12 +307,15 @@ div.store div.frame-store p {
     font-family: "Verdana";
 }
 div.store div.frame-store div.blue-frame {
-    background-color: #0040FF;
+    background-color: #2E64FE;
     color: #FFFFFF;
     border-radius: 1rem;
     padding: 5px;
+    width: 100px;
 }
 div.store div.frame-store div.blue-frame:hover {
-    background-color: #0431B4;
+    background-color: #0040FF;
+    transition-duration: 0.5s;
+    width: 125px;
 }
 div.store div.frame-store div.white-frame {}
