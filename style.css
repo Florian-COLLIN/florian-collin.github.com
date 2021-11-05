@@ -290,4 +290,6 @@ div.frame-store {
     text-align: center;
     border: 1px solid black;
     padding: 10px;
+    border-radius: 1rem;
+    box-shadow: 0 0 .2em #999;
 }
