@@ -281,3 +281,11 @@ table.language tr {
 #fermer:hover {
     background: url(https://www.webdesignweb.fr/sources/bandeau_webdesignweb_fixed/img/fermer.gif);
 }
+/* Store */
+div.store {
+    flex-direction: row-reverse;
+}
+div.frame-store {
+    width: 250px;
+    text-align: center;
+}
