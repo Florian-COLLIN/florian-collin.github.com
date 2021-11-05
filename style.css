@@ -313,6 +313,7 @@ div.store div.frame-store div.blue-frame {
     border-radius: 1rem;
     padding: 5px;
     width: 100px;
+    box-shadow: 0 0 .2em #999;
 }
 div.store div.frame-store div.blue-frame:hover {
     background-color: #0040FF;
@@ -325,6 +326,7 @@ div.store div.frame-store div.white-frame {
     border-radius: 1rem;
     padding: 5px;
     width: 100px;
+    box-shadow: 0 0 .2em #999;
 }
 div.store div.frame-store div.white-frame:hover {
     background-color: #D8D8D8;
