@@ -288,4 +288,6 @@ div.store {
 div.frame-store {
     width: 250px;
     text-align: center;
+    border: 1px solid black;
+    padding: 10px;
 }
