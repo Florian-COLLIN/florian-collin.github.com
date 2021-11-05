@@ -306,3 +306,13 @@ div.store div.frame-store p {
     font-size: 15px;
     font-family: "Verdana";
 }
+div.store div.frame-store div.blue-frame {
+    background-color: #0040FF;
+    color: #FFFFFF;
+    border-radius: 1rem;
+    padding: 5px;
+}
+div.store div.frame-store div.blue-frame:hover {
+    background-color: #0431B4;
+}
+div.store div.frame-store div.white-frame {}
