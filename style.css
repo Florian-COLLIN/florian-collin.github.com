@@ -301,3 +301,8 @@ div.store div.frame-store hr {
     width: 150px;
     align-content: center;
 }
+div.store div.frame-store p {
+    align-content: center;
+    font-size: 15px;
+    font-family: "Verdana";
+}
