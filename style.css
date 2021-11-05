@@ -302,7 +302,7 @@ div.store div.frame-store hr {
     align-content: center;
 }
 div.store div.frame-store p {
-    align-content: center;
+    text-align: center;
     font-size: 15px;
     font-family: "Verdana";
 }
