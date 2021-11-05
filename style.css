@@ -319,4 +319,15 @@ div.store div.frame-store div.blue-frame:hover {
     transition-duration: 0.5s;
     width: 125px;
 }
-div.store div.frame-store div.white-frame {}
+div.store div.frame-store div.white-frame {
+    margin: auto;
+    color: #000000;
+    border-radius: 1rem;
+    padding: 5px;
+    width: 100px;
+}
+div.store div.frame-store div.white-frame:hover {
+    background-color: #D8D8D8;
+    transition-duration: 0.5s;
+    width: 125px;
+}
