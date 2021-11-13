@@ -5,7 +5,7 @@
 /* Général */
 body {
   /*background:#fbf1d8 url(https://themes.googleusercontent.com/image?id=1tFd7JwCZklx2wbQVQNlo-PcPRWrzFsTSzBZOaXgoUo8M1A6G1q5jOePd6ZeusFbrndZ9) no-repeat fixed top center /* Credit: tillsonburg (http://www.istockphoto.com/portfolio/tillsonburg?platform=blogger) */;*/
-  background-color: #66a7cc;
+  background-color: url("/images/eglise_saint-martin-du-lac.png");
   /*background-attachment:scroll;
   background-size:cover;*/
   -webkit-filter:blur(0px);
