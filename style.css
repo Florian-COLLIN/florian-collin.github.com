@@ -5,8 +5,8 @@
 /* Général */
 body {
   background-color: url("/images/eglise_saint-martin-du-lac.png");
-  /*background-attachment:scroll;
-  background-size:cover;*/
+  background-attachment:scroll;
+  background-size:cover;
   -webkit-filter:blur(0px);
   filter:blur(0px);
   height:calc(100% + 2 * 0px);
