@@ -337,21 +337,21 @@ div.store div.frame-store div.white-frame:hover {
     width: 125px;
 }
 /* Home */
-div.select-language-fond {
+.select-language-fond {
     position: fixed;
-    z-index: 10;
     top: 0;
     left: 0;
+    z-index: 10;
     width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-div.select-language-centre {
+
+.select-language-centre {
     width: 400px;
     height: 400px;
     background-color: #2b303b;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
