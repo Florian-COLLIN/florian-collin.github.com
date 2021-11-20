@@ -343,6 +343,9 @@ div.select-language {
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle
 }
 div.select-language table {
     width: auto;
