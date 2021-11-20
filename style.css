@@ -347,6 +347,7 @@ div.store div.frame-store div.white-frame:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 .select-language-centre {
     width: 25%;
