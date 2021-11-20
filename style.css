@@ -336,3 +336,16 @@ div.store div.frame-store div.white-frame:hover {
     transition-duration: 0.5s;
     width: 125px;
 }
+/* Home */
+div.select-language {
+    transition-duration: 0.25s;
+    width: auto;
+    height: auto;
+}
+div.select-language table {
+    width: auto;
+    height: auto;
+}
+div.select-language table tr {
+    border-radius: 1rem;
+}
