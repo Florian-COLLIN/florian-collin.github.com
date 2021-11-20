@@ -339,8 +339,10 @@ div.store div.frame-store div.white-frame:hover {
 /* Home */
 div.select-language {
     transition-duration: 0.25s;
-    width: auto;
-    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 div.select-language table {
     width: auto;
