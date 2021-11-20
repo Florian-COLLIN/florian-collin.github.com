@@ -341,9 +341,7 @@ div.select-language {
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-    margin-top: auto;
-    margin-bottom: auto;
-    height: 25%;
+    vertical-align: middle;
 }
 div.select-language table {
     width: auto;
