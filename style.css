@@ -344,7 +344,6 @@ div.store div.frame-store div.white-frame:hover {
     z-index: 10;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(0, 0, 0, 0.4);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -353,5 +352,4 @@ div.store div.frame-store div.white-frame:hover {
 .select-language-centre {
     width: 400px;
     height: 400px;
-    background-color: #2b303b;
 }
