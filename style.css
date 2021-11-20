@@ -348,8 +348,7 @@ div.store div.frame-store div.white-frame:hover {
     align-items: center;
     justify-content: center;
 }
-
 .select-language-centre {
-    width: 400px;
-    height: 400px;
+    width: 25%;
+    height: 25%;
 }
