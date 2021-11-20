@@ -338,6 +338,7 @@ div.store div.frame-store div.white-frame:hover {
 }
 /* Home */
 div.select-language {
+    display: block;
     margin-left: auto;
     margin-right: auto;
     min-height: 10em;
