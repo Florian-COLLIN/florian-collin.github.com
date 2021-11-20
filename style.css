@@ -342,6 +342,7 @@ div.select-language {
     margin-right: auto;
     width: 25%;
     vertical-align: middle;
+    display: table-cell;
 }
 div.select-language table {
     width: auto;
