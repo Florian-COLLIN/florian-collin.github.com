@@ -88,6 +88,19 @@ h6 {
 .accueil-site p {
     text-align: justify;
 }
+/* Header */
+header.title {
+    width: 100%;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div.texte {
+    text-align: center;
+    color: #BDBDBD;
+    font-size: 2rem;
+}
 /*Cadre du haut */
 .cadre-du-haut {
   width: 100%;
@@ -160,7 +173,7 @@ nav ul {
 }
 nav ul li {
     float: left;
-    width: 25%;
+    width: 16.667%;
     text-align: center;
     position: relative;
 }
