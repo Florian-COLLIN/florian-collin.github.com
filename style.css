@@ -101,7 +101,11 @@ header.title div.texte h1 {
     text-align: center;
     color: #BDBDBD;
     font-size: 4rem;
-}/* Réseaux sociaux */
+}
+/* Réseaux sociaux */
+p.networks {
+    display: inline-block;
+}
 div.networks {
     display: flex;
     width: 100%
