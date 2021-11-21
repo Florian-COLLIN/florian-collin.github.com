@@ -109,6 +109,9 @@ div.networks {
 div.networks-cadre {
     flex: 1;
 }
+div.networks-cadre p {
+    float: right;
+}
 div.networks-cadre-wikipedia {
     height: 30px;
     width: auto;
@@ -123,7 +126,7 @@ div.networks-cadre-strava {
     border: 2px solid orange;
     border-radius: 1em;
     margin-right: 1rem;
-    padding: 5px;
+    padding: 10px;
 }
 /*
  * Onglets
