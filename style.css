@@ -103,17 +103,16 @@ header.title div.texte h1 {
     font-size: 4rem;
 }
 /* Réseaux sociaux */
-p.inline {
-    display: inline-block;
-}
 div.networks {
-    display: inline-block;
+    display: flex;
     width: 100%
+}
+div.networks-cadre {
+    flex: 1;
 }
 div.networks-cadre-wikipedia {
     height: 40px;
     width: auto;
-    display: inline-block;
 }
 /*
  * Onglets
