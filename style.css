@@ -96,7 +96,7 @@ header.title {
     margin-right: auto;
     margin-left: auto;
 }
-div.texte {
+header.title div.texte {
     text-align: center;
     color: #BDBDBD;
     font-size: 2rem;
