@@ -103,30 +103,63 @@ header.title div.texte h1 {
     font-size: 4rem;
 }
 /* Réseaux sociaux */
-div.networks {
-    display: inline-flex;
+.btn {
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+    margin: 0.5rem;
+    border-radius: 4px;
+    transition-duration: 0.25s;
+    font-weight: 300;
+    display: inline-block;
 }
-div.networks-cadre {
-    flex: 1;
+.btn-lg {
+    font-size: 1.2rem;
 }
-div.networks-cadre p {
-    float: right;
+.btn:hover {
+    font-weight: 300;
 }
-div.networks-cadre-wikipedia {
-    height: 30px;
-    width: auto;
-    border: 2px solid gray;
-    border-radius: 1em;
-    margin-right: 1rem;
-    padding: 10px;
+.btn-outline-white {
+    border: 1px solid #fff;
+    color: #fff;
+    background: #222;
 }
-div.networks-cadre-strava {
-    height: 30px;
-    width: auto;
-    border: 2px solid orange;
-    border-radius: 1em;
-    margin-right: 1rem;
-    padding: 10px;
+.btn-outline-white:hover {
+    background-color: #fff;
+    color: #222;
+}
+.btn-outline-blue {
+    border: 1px solid #2573b8;
+    color: #2573b8;
+    background: #222;
+}
+.btn-outline-blue:hover {
+    background-color: #2573b8;
+    color: #fff;
+}
+.btn-outline-orange {
+    border: 1px solid #f16600;
+    color: #f16600;
+    background: #222;
+}
+.btn-outline-orange:hover {
+    background-color: #f16600;
+    color: #fff;
+}
+.btn-outline-red {
+    border: 1px solid #9f1d1d;
+    color: #9f1d1d;
+    background: #222;
+}
+.btn-outline-red:hover {
+    background-color: #9f1d1d;
+    color: #fff;
+}
+.separator {
+    margin-right: 0.5rem;
+}
+.separator-line {
+    border-right: 1px solid #bbb;
+    padding-right: 0.5rem;
+    margin-right: 0.5rem;
 }
 /*
  * Onglets
