@@ -104,13 +104,20 @@ header.title div.texte h1 {
 }
 /* Réseaux sociaux */
 div.networks {
-    display: flex;
+    display: inline-flex;
     width: 100%
 }
 div.networks-cadre {
     flex: 1;
+    display: inline-flex;
 }
 div.networks-cadre-wikipedia {
+    flex: 1;
+    height: 40px;
+    width: auto;
+}
+div.networks-cadre-strava {
+    flex: 1;
     height: 40px;
     width: auto;
 }
