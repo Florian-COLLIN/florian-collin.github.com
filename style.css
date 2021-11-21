@@ -111,14 +111,14 @@ div.networks-cadre {
     margin-right: 5rem;
 }
 div.networks-cadre-wikipedia {
-    flex: 1;
+    flex: 2;
     height: 30px;
     width: auto;
     border: 2px solid gray;
     border-radius: 1em;
 }
 div.networks-cadre-strava {
-    flex: 1;
+    flex: 2;
     height: 30px;
     width: auto;
     border: 2px solid orange;
