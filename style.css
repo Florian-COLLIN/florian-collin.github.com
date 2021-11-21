@@ -110,7 +110,6 @@ div.networks-cadre {
     flex: 1;
 }
 div.networks-cadre-wikipedia {
-    flex: 2;
     height: 30px;
     width: auto;
     border: 2px solid gray;
@@ -119,7 +118,6 @@ div.networks-cadre-wikipedia {
     padding: 5px;
 }
 div.networks-cadre-strava {
-    flex: 2;
     height: 30px;
     width: auto;
     border: 2px solid orange;
