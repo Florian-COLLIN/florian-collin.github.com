@@ -101,6 +101,15 @@ header.title div.texte h1 {
     text-align: center;
     color: #BDBDBD;
     font-size: 4rem;
+}/* Réseaux sociaux */
+div.networks {
+    display: flex;
+    width: 100%
+}
+div.networks-cadre-wikipedia {
+    height: 40px;
+    width: auto;
+    display: flex;
 }
 /*
  * Onglets
