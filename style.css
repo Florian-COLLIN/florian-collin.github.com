@@ -103,11 +103,11 @@ header.title div.texte h1 {
     font-size: 4rem;
 }
 /* Réseaux sociaux */
-p.networks {
+p.inline {
     display: inline-block;
 }
 div.networks {
-    display: flex;
+    display: inline-block;
     width: 100%
 }
 div.networks-cadre-wikipedia {
