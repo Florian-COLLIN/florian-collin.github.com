@@ -5,8 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 ### [v1.3.0]
+#### Added
+- Translation of French pages into English.
 
-## [v1.2.0]
+#### Changed
+- Update English pages ;
+- Update content.
+
+## [v1.2.0] - 2021-11-21
 ### Added
 - Social Networks link.
 

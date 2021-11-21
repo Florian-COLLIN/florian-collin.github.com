@@ -11,3 +11,8 @@ function annee() {
 	var anneeEnCours = new Date();
 	window.document.write(anneeEnCours.getFullYear());
 }
+
+function version() {
+	var version = "v1.2.0";
+	window.document.write(version);
+}
