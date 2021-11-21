@@ -108,7 +108,6 @@ div.networks {
 }
 div.networks-cadre {
     flex: 1;
-    margin-right: 5rem;
 }
 div.networks-cadre-wikipedia {
     flex: 2;
@@ -116,6 +115,8 @@ div.networks-cadre-wikipedia {
     width: auto;
     border: 2px solid gray;
     border-radius: 1em;
+    margin-right: 5rem;
+    padding: 5px;
 }
 div.networks-cadre-strava {
     flex: 2;
@@ -123,6 +124,8 @@ div.networks-cadre-strava {
     width: auto;
     border: 2px solid orange;
     border-radius: 1em;
+    margin-right: 5rem;
+    padding: 5px;
 }
 /*
  * Onglets
