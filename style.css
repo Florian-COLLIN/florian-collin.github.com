@@ -114,7 +114,7 @@ div.networks-cadre-wikipedia {
     width: auto;
     border: 2px solid gray;
     border-radius: 1em;
-    margin-right: 5rem;
+    margin-right: 1rem;
     padding: 5px;
 }
 div.networks-cadre-strava {
@@ -122,7 +122,7 @@ div.networks-cadre-strava {
     width: auto;
     border: 2px solid orange;
     border-radius: 1em;
-    margin-right: 5rem;
+    margin-right: 1rem;
     padding: 5px;
 }
 /*
