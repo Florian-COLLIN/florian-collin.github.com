@@ -102,63 +102,6 @@ header.title div.texte h1 {
     color: #BDBDBD;
     font-size: 4rem;
 }
-/*Cadre du haut */
-.cadre-du-haut {
-  width: 100%;
-  height: 100vh;
-  position: relative;
-  overflow: hidden;
-  color: #FFF;
-  text-align: center;
-}
-.cadre-du-haut-center {
-  width: 100%;
-  position: absolute;
-  top: 40%;
-  left: 0;
-  -webkit-transform: translate(0, -50%);
-      -ms-transform: translate(0, -50%);
-          transform: translate(0, -50%);
-}
-.cadre-du-haut__logo {
-    font-size: 120px;
-    color: rgba(0, 0, 0, 0.5);
-}
-.cadre-du-haut__text {
-    font-weight: normal;
-    opacity: 0.8;
-}
-[data-aos=zoom-in] {
-  transform:scale(.6)
-}
-[data-aos=fade-up] {
-  transform:translate3d(0,100px,0)
-}
-[data-aos][data-aos][data-aos-easing=ease],
-body[data-aos-easing=ease] [data-aos] {
-  transition-timing-function: ease
-}
-[data-aos][data-aos][data-aos-duration="400"],
-body[data-aos-duration="400"] [data-aos] {
-  transition-duration:.4s
-}
-[data-aos][data-aos][data-aos-delay="400"],
-body[data-aos-delay="400"] [data-aos] {
-  transition-delay:0
-}
-[data-aos][data-aos][data-aos-delay="400"].aos-animate,
-body[data-aos-delay="400"] [data-aos].aos-animate{
-  transition-delay:.4s
-}
-.octocat {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  width: 80px; }
-  .octocat img {
-    display: block;
-    width: 100%;
-}
 /*
  * Onglets
  */
