@@ -105,11 +105,10 @@ header.title div.texte h1 {
 /* Réseaux sociaux */
 div.networks {
     display: inline-flex;
-    width: 100%
 }
 div.networks-cadre {
     flex: 1;
-    display: inline-flex;
+    margin-right: 5rem;
 }
 div.networks-cadre-wikipedia {
     flex: 1;
