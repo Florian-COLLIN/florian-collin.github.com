@@ -5,13 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 ### [v1.3.0]
-### [v1.2.0]
-#### Added
-- Social Networks link (c5ca832).
 
-#### Changed
+## [v1.2.0]
+### Added
+- Social Networks link.
+
+### Changed
 - Home page title style ;
-- Language selection page style.
+- Language selection page style (c5ca832).
 
 ## [v1.1.4] - 2021-01-01
 ### Added
@@ -57,6 +58,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Add [CHANGELOG.md](https://github.com/Florian-COLLIN/florian-collin.github.com/blob/main/CHANGELOG.md) ;
 - Add [javascrpt.js](https://github.com/Florian-COLLIN/florian-collin.github.com/blob/main/javascript.js).
 
+[v1.2.0]: https://github.com/Florian-COLLIN/florian-collin.github.com/releases/tag/v1.2.0
 [v1.1.5]: https://github.com/Florian-COLLIN/florian-collin.github.com/releases/tag/v1.1.5
 [v1.1.4]: https://github.com/Florian-COLLIN/florian-collin.github.com/releases/tag/v1.1.4
 [v1.1.3]: https://github.com/Florian-COLLIN/florian-collin.github.com/releases/tag/v1.1.3
