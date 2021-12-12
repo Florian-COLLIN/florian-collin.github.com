@@ -308,6 +308,7 @@ div.store div.frame-store {
     border-radius: 1rem;
     box-shadow: 0 0 .2em #999;
     flex-grow: 1;
+    margin: 10px;
 }
 div.store div.frame-store h1 {
     font-family: "Verdana";*
