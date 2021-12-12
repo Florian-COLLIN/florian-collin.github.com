@@ -298,7 +298,7 @@ table.language tr {
 }
 /* Store */
 div.store {
-    flex-direction: row-reverse;
+    display: flex;
 }
 div.store div.frame-store {
     width: 250px;
@@ -307,6 +307,7 @@ div.store div.frame-store {
     padding: 10px;
     border-radius: 1rem;
     box-shadow: 0 0 .2em #999;
+    flex-grow: 1;
 }
 div.store div.frame-store h1 {
     font-family: "Verdana";*
