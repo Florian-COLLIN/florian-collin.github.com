@@ -329,7 +329,7 @@ div.store div.frame-store div.blue-frame {
     color: #FFFFFF;
     border-radius: 1rem;
     padding: 5px;
-    width: 100px;
+    width: 150px;
     box-shadow: 0 0 .2em #999;
     border: 2px solid #0040FF;
     margin-top: 10px;
@@ -337,14 +337,14 @@ div.store div.frame-store div.blue-frame {
 div.store div.frame-store div.blue-frame:hover {
     background-color: #0040FF;
     transition-duration: 0.5s;
-    width: 125px;
+    width: 175px;
 }
 div.store div.frame-store div.white-frame {
     margin: auto;
     color: #000000;
     border-radius: 1rem;
     padding: 5px;
-    width: 100px;
+    width: 150px;
     box-shadow: 0 0 .2em #999;
     border: 2px solid #D8D8D8;
     margin-top: 10px;
@@ -352,7 +352,7 @@ div.store div.frame-store div.white-frame {
 div.store div.frame-store div.white-frame:hover {
     background-color: #D8D8D8;
     transition-duration: 0.5s;
-    width: 125px;
+    width: 175px;
 }
 /* Home */
 .select-language-fond {
