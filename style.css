@@ -335,8 +335,8 @@ div.store div.frame-store div.blue-frame {
 }
 div.store div.frame-store div.blue-frame:hover {
     background-color: #0040FF;
-    transition-duration: 0.5s;
-    width: 175px;
+    transition-duration: 0.75ss;
+    width: 225px;
 }
 div.store div.frame-store div.white-frame {
     margin: auto;
@@ -350,8 +350,8 @@ div.store div.frame-store div.white-frame {
 }
 div.store div.frame-store div.white-frame:hover {
     background-color: #D8D8D8;
-    transition-duration: 0.5s;
-    width: 200px;
+    transition-duration: 0.75s;
+    width: 225px;
 }
 /* Home */
 .select-language-fond {
