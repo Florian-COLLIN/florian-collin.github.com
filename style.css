@@ -335,7 +335,7 @@ div.store div.frame-store div.blue-frame {
 }
 div.store div.frame-store div.blue-frame:hover {
     background-color: #0040FF;
-    transition-duration: 0.75ss;
+    transition-duration: 0.75s;
     width: 225px;
 }
 div.store div.frame-store div.white-frame {
