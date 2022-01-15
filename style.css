@@ -351,7 +351,7 @@ div.store div.frame-store div.white-frame {
 div.store div.frame-store div.white-frame:hover {
     background-color: #D8D8D8;
     transition-duration: 0.5s;
-    width: 175px;
+    width: 200px;
 }
 /* Home */
 .select-language-fond {
