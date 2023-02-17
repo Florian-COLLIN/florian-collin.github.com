@@ -374,3 +374,9 @@ div.store div.frame-store div.white-frame:hover {
     font-size: 2em;
     text-align: center;
 }
+.number_texte {
+    text-align: center;
+}
+.no_lines {
+    border: none;
+}
