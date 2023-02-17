@@ -370,3 +370,7 @@ div.store div.frame-store div.white-frame:hover {
     width: 25%;
     height: 25%;
 }
+.number {
+    font-size: 2em;
+    text-align: center;
+}
