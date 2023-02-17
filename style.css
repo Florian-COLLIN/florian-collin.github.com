@@ -378,5 +378,8 @@ div.store div.frame-store div.white-frame:hover {
     text-align: center;
 }
 .no_lines {
-    border: none;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
 }
