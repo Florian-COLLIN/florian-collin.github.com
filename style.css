@@ -268,7 +268,12 @@ nav {
 
 .dropdown:hover .dropdown-content {
   display: block;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
 }
+
 /*
 nav ul {
     list-style: none;
