@@ -185,6 +185,7 @@ nav li a {
 nav li:hover a {
     color: #fff;
     background-color: #333;
+    transition-duration: 0.5s;
 }
 .dropdown-content {
     display: none;
@@ -195,6 +196,7 @@ nav li:hover a {
 }
 .dropdown:hover .dropdown-content {
     display: block;
+    transition-duration: 0.5s;
 }
 /* Bas de page */
 footer {
